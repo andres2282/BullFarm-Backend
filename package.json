@@ -1,0 +1,15 @@
+{
+  "name": "bullfarm-backend",
+  "version": "1.0.0",
+  "description": "Backend de firma EIP-712 para BullFarmGame",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "ethers": "^6.13.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
